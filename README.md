@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahmatullohIsmoilov
 - 👀 I’m interested in GUI programming
-- 🌱 I’m currently learning Web development
+
 
 
 <!---
